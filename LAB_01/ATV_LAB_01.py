@@ -39,7 +39,7 @@ BeanColor = cv2.imread('MrBeanOrigianal.jpg', 1)
 print(BeanColor.shape)
 '''
 ############################
-
+'''
 # Atividade 01
 for x in range(340):
     for y in range(515):
@@ -51,8 +51,29 @@ for x in range(340):
 BeanVar = BeanColor
 
 cv2.imshow('BeanVar.jpg', BeanVar)
-cv2.imwrite('BeanRed.jpg', BeanVar)
+#cv2.imwrite('BeanRed.jpg', BeanVar)
+'''
+###########################
+'''
+# Atividade 03
 
+'''
+###########################
+
+# Atividade 03
+Marca = cv2.imread('Marca.png', 1)
+
+print(Marca.shape)
+for x in range(443):
+    for y in range(620):
+        Marca[x, y, 0] *= 0.40
+        Marca[x, y, 1] *= 0.40
+        Marca[x, y, 2] *= 0.40
+print(Marca)
+cv2.imshow('Marca.png', Marca)
+
+
+BeanVar = BeanColor + Marca
 
 
 
