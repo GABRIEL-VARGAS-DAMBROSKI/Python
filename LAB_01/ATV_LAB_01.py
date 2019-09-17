@@ -28,6 +28,7 @@ BeanColor = cv2.imread('MrBeanOrigianal.jpg', 1)
     
     # Atividade 04
         - Binarização da imagem do FOTÓGRAFO
+				-> https://unasp.mrooms.net/pluginfile.php/525420/mod_assign/intro/cameraman.tif
     
     # Atividade 05
         - Aplicar o filtro de threshold adaptativo e eliminar as componentes conexas menores
