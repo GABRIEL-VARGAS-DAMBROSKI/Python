@@ -1,2 +1,6 @@
 # Python-Facul
-Activities from College &amp;&amp; TCC - Using Python and the library opencv 
+All the codes here are About:
+-> Hackarank
+-> College
+-> TCC
+-> Machine Learning - Personal Trainings
