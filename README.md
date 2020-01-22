@@ -1,6 +1,9 @@
 # Python-Facul
-All the codes here are About:
--> Hackarank
--> College
--> TCC
--> Machine Learning - Personal Trainings
+
+###__All the codes here are About__:
+
+- Machine Learning - Personal Trainings
+- Hackarank
+- Chalanges
+- College
+- TCC
