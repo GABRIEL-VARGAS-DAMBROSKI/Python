@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jan  7 17:50:00 2020
+spyder editor
 
-@author: RE038943
 """
 
 if __name__ == '__main__':
