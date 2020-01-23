@@ -5,5 +5,3 @@
 - Machine Learning - Personal Trainings
 - Hackarank
 - Chalanges
-- College
-- TCC
