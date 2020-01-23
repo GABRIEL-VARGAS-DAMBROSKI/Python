@@ -2,10 +2,7 @@
 """
 Spyder Editor
 
-Este é um arquivo de script temporário.
 """
-
-#import numpy as np
 
 if __name__ == '__main__':
     n = int(input())
@@ -51,39 +48,4 @@ if __name__ == '__main__':
                     break
         
 
-    print("======| TERMINEEII TUDO |======")
-
-        
-            
     
-    
-   # print(i, (runnerUp.index - 1))
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-'''
-if __name__ == '__main__':
-
-    x = int(input())
-    y = int(input())
-    z = int(input())
-    n = int(input())
-
-#list = [[x,y,z] for i in range(3)]
-
-list = [[i,j,k] for i in range(x+1) for j in range(y+1) for k in range(z+1) if((i+j+k != n))]
-
-print(list)
-'''
