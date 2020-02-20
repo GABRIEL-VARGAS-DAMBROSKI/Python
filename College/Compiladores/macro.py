@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 @author: Gabriel Vargas Dambroski
-@RA: 100909
 """
 
 import re
