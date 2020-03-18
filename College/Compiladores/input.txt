@@ -1,6 +1,0 @@
-h = 200 + 100
-include
-a = 150
-include
-c = b + 10
-z = 1000 + x
