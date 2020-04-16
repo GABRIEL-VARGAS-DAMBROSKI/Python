@@ -4,5 +4,6 @@
 
 - Machine Learning - Personal Trainings
 - Hackarank
+- Kaggle
 - Challenges
 - Games
