@@ -1,9 +1,8 @@
 # Python Training
 
-### __All the codes here are About__:
+### __Todos os códigos aqui são sobre__:
 
-- Machine Learning - Personal Trainings
-- Hackarank
+- Machine Learning
+- Hackrank
 - Kaggle
 - Challenges
-- Games
